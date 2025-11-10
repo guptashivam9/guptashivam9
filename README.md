@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">Full Stack Developer | Jr developer at Startup</h3>
+<h3 align="center">Full Stack Developer | MERN Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Node.js+Developer;Building+Modern+Web+Apps;Learning+Cyber+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Jr Developer at StartUp-gap learning " alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,postgres,mongodb,git,github,vscode,fastify,xstate,sql,prisma,expo" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,postgres,mongodb,git,github,vscode,fastify,xstate,mySql,prisma,Expo" />
 </p>
 
 ---
@@ -22,14 +22,14 @@
 <div align="center">
 
   <img height="180em"
-       src="https://github-readme-streak-stats-eight.vercel.app/?user=SaubhagyaSapkota&hide_border=true&theme=radical&locale=en"
+       src="https://github-readme-streak-stats-eight.vercel.app/?user=guptashivam9&hide_border=true&theme=radical&locale=en"
        alt="Shivam Gupta" />
 
   <br />
 
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=SaubhagyaSapkota&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=guptashivam9&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SaubhagyaSapkota&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
+  <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=guptashivam9&layout=compact&hide_border=true&theme=radical" alt="Top Languages"/>
 
 </div>
 
@@ -38,7 +38,7 @@
 ### 🧠 GitHub 3D Profile Card
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaubhagyaSapkota&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guptashivam9&theme=radical" />
 </p>
 
 ---
