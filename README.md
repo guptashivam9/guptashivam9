@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | MERN Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Jr Developer at StartUp-gap learning " alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%2F+Jr+Developer+at+StartUp+and+Building+Everyday" alt="Typing SVG" />
 </p>
 
 ---
