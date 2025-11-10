@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,postgres,mongodb,git,github,vscode,fastify,xstate,mySql,prisma,Expo" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,postgres,mongodb,git,github,vscode,fastify,xstate,MySQL,prisma,Expo" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
   <img height="180em"
        src="https://github-readme-streak-stats-eight.vercel.app/?user=guptashivam9&hide_border=true&theme=radical&locale=en"
-       alt="Shivam Gupta" />
+       alt="guptashivam9" />
 
   <br />
 
