@@ -9,7 +9,8 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,postgres,mongodb,git,github,vscode,fastify,xstate,MySQL,prisma,Expo" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,tailwind,postgres,mongodb,git,github,vscode,fastify,prisma,mysql,expo" />
+
 </p>
 
 ---
